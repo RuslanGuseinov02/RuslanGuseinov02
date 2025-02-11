@@ -1,4 +1,4 @@
-[![MasterHead](https://www.shutterstock.com/image-illustration/android-development-studio-illustration-background-concept-1761551144)
+
 <h1 align="center">Hi 👋, I'm Ruslan Guseinov</h1>
 <h3 align="center">Junior Android Developer</h3>
 
