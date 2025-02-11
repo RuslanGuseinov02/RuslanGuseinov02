@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40akshatarora7%2Fthe-essential-reading-list-for-aspiring-android-developers-2f81e0bed4d1&psig=AOvVaw2MFRriUuq4CPxft0LNUjm5&ust=1739377428088000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJD98K6EvIsDFQAAAAAdAAAAABAJ)
+[![MasterHead](http://kasimadalan.pe.hu/yemekler/resimler/ayran.png)
 <h1 align="center">Hi 👋, I'm Ruslan Guseinov</h1>
 <h3 align="center">Junior Android Developer</h3>
 
