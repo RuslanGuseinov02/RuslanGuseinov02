@@ -1,4 +1,5 @@
-[![MasterHead]([http:ile istediginiz fotoğrafın linkini buraya yazın](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png))
+ [![MasterHead](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png
+)
 <h1 align="center">Hi 👋, I'm Ruslan Guseinov</h1>
 <h3 align="center">Junior Android Developer</h3>
 
@@ -12,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ruslan huseynov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruslan huseynov" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ruslan guseinov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruslan guseinov" height="30" width="40" /></a>
 <a href="https://instagram.com/iamhuseinov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamhuseinov" height="30" width="40" /></a>
 <a href="https://discord.gg/iamhuseinov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="iamhuseinov" height="30" width="40" /></a>
 </p>
