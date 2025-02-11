@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ruslanguseinov002@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact Don't touch if the codes work
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
