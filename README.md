@@ -1,4 +1,4 @@
-
+[![MasterHead]([http:ile istediginiz fotoğrafın linkini buraya yazın](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png))
 <h1 align="center">Hi 👋, I'm Ruslan Guseinov</h1>
 <h3 align="center">Junior Android Developer</h3>
 
