@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Ruslan Guseinov</h1>
 <h3 align="center">Junior Android Developer</h3>
 
-- 🔭 I’m currently working on **FoodNinja**
-
 - 🌱 I’m currently learning **Kotlin And Android**
 
 - 📫 How to reach me **ruslanguseinov002@gmail.com**
